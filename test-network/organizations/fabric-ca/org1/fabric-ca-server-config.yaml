@@ -280,7 +280,7 @@ signing:
             - server auth
             - client auth
             - key agreement
-         expiry: 8760h
+         expiry: 15m
 
 ###########################################################################
 #  Certificate Signing Request (CSR) section.
